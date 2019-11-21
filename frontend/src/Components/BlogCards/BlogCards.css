@@ -1,0 +1,25 @@
+.Blog-Card{
+    margin-top: 10px;
+    margin-left: 20%;
+    text-align: center; 
+    display: flex;
+    width: 55%;
+
+}
+.Blog-Image{
+    display: flex;
+}
+.BlogCard-Title{
+    display: flex;
+    height: 30px;
+}
+.BlogCard-Info{
+    padding-top:0.5%;
+    display: flex;
+    flex-wrap: wrap;
+    height: 170px;
+
+}
+.Blog-Text{
+    padding-left: 1%;
+}
