@@ -6,7 +6,8 @@ class SignUp extends Component {
         return(
         <div className="form">
             <h2>Sign Up Form for Space </h2>
-        <form id="signup-form">
+            
+        <form id="signup-form" action="/" method="post">
             <div class="signup-row">
                 <div class="signup-label">
                   <label>First Name:</label>
@@ -83,7 +84,7 @@ class SignUp extends Component {
              </div>
   
             <div class="submit-btn">
-                <button>Submit</button>
+                <button type="submit">Submit</button>
             </div>
         </form>
         </div>

@@ -6,6 +6,7 @@ import Header from './Components/Header/Header';
 import HomePage from './Components/HomePage/HomePage';
 import SignUp from './Components/SignUp/SignUp';
 
+
 function App() {
   const [loginState, setLogin] = useState({
     visible: false
