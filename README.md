@@ -1,6 +1,8 @@
 # Blog-Page
 Blog page Front-End with React
 
+## UI
+
 ## Installation
 
 In the project directory, you need to install the following:<br>
